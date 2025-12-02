@@ -24,9 +24,9 @@ var APP_DATA = {
       ],
       "faceSize": 1920,
       "initialViewParameters": {
-        "yaw": 2.7441805516456075,
-        "pitch": 0.20384237049059983,
-        "fov": 1.303246018441174
+        "yaw": 2.642056443520959,
+        "pitch": 0.21147449534005602,
+        "fov": 1.3122908106411348
       },
       "linkHotspots": [
         {
@@ -62,9 +62,9 @@ var APP_DATA = {
       ],
       "faceSize": 1920,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": 2.214242814466191,
+        "pitch": 0.11781030161818862,
+        "fov": 1.4257291744884215
       },
       "linkHotspots": [
         {
@@ -106,9 +106,9 @@ var APP_DATA = {
       ],
       "faceSize": 1920,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": 2.4642575448296693,
+        "pitch": 0.28125623750043793,
+        "fov": 1.4257291744884215
       },
       "linkHotspots": [
         {
@@ -150,9 +150,9 @@ var APP_DATA = {
       ],
       "faceSize": 1920,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": 2.42218878371955,
+        "pitch": 0.2933320938927384,
+        "fov": 1.4257291744884215
       },
       "linkHotspots": [
         {
@@ -194,9 +194,9 @@ var APP_DATA = {
       ],
       "faceSize": 1920,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": 2.6203645384016827,
+        "pitch": 0.3197474527000299,
+        "fov": 1.4257291744884215
       },
       "linkHotspots": [
         {
@@ -216,6 +216,12 @@ var APP_DATA = {
           "pitch": 0.287531790856848,
           "rotation": 0,
           "target": "6-to-the-terrace"
+        },
+        {
+          "yaw": 2.310354150896659,
+          "pitch": 0.396279914184829,
+          "rotation": 0,
+          "target": "12-courtyard"
         }
       ],
       "infoHotspots": []
@@ -244,9 +250,9 @@ var APP_DATA = {
       ],
       "faceSize": 1920,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": -3.012505376022654,
+        "pitch": 0.48985471486850507,
+        "fov": 1.4257291744884215
       },
       "linkHotspots": [
         {
@@ -256,8 +262,8 @@ var APP_DATA = {
           "target": "6-to-the-terrace"
         },
         {
-          "yaw": -0.6125284639935984,
-          "pitch": 0.7421047743767435,
+          "yaw": -0.6415153711056352,
+          "pitch": 0.6370584147729357,
           "rotation": 0,
           "target": "4-to-the-courtyard"
         },
@@ -272,6 +278,12 @@ var APP_DATA = {
           "pitch": 0.2193499852561942,
           "rotation": 0,
           "target": "14-multipurpose-room--makrynari"
+        },
+        {
+          "yaw": 2.444314294998147,
+          "pitch": 0.404987677860813,
+          "rotation": 0,
+          "target": "12-courtyard"
         }
       ],
       "infoHotspots": []
@@ -300,9 +312,9 @@ var APP_DATA = {
       ],
       "faceSize": 1920,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": -3.0087412601889767,
+        "pitch": 0.2624773044182085,
+        "fov": 1.4257291744884215
       },
       "linkHotspots": [
         {
@@ -350,9 +362,9 @@ var APP_DATA = {
       ],
       "faceSize": 1920,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": -2.696928169388487,
+        "pitch": 0.057168012885572494,
+        "fov": 1.4257291744884215
       },
       "linkHotspots": [
         {
@@ -394,9 +406,9 @@ var APP_DATA = {
       ],
       "faceSize": 1920,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": -0.9004481780455187,
+        "pitch": 0.21934988628231622,
+        "fov": 1.4257291744884215
       },
       "linkHotspots": [
         {
@@ -438,9 +450,9 @@ var APP_DATA = {
       ],
       "faceSize": 1920,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": 2.144911048289112,
+        "pitch": 0.3282576455596473,
+        "fov": 1.4257291744884215
       },
       "linkHotspots": [
         {
@@ -476,9 +488,9 @@ var APP_DATA = {
       ],
       "faceSize": 1920,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": 0.8149992400516997,
+        "pitch": 0.34063725333256123,
+        "fov": 1.4257291744884215
       },
       "linkHotspots": [
         {
@@ -488,10 +500,10 @@ var APP_DATA = {
           "target": "6-to-the-terrace"
         },
         {
-          "yaw": 1.4560984487847328,
-          "pitch": 0.538395763776025,
+          "yaw": 1.4560984516547322,
+          "pitch": 0.5383957961155375,
           "rotation": 0,
-          "target": "21-to-the-courtyard"
+          "target": "21-tomb-entrance"
         },
         {
           "yaw": 0.45500443118967837,
@@ -526,9 +538,9 @@ var APP_DATA = {
       ],
       "faceSize": 1920,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": 2.013665964623703,
+        "pitch": 0.33233828728165804,
+        "fov": 1.4257291744884215
       },
       "linkHotspots": [
         {
@@ -554,6 +566,12 @@ var APP_DATA = {
           "pitch": 0.29159370594345724,
           "rotation": 0,
           "target": "14-multipurpose-room--makrynari"
+        },
+        {
+          "yaw": -2.5658423107946913,
+          "pitch": 0.7754617206361196,
+          "rotation": 0,
+          "target": "21-tomb-entrance"
         }
       ],
       "infoHotspots": []
@@ -582,14 +600,14 @@ var APP_DATA = {
       ],
       "faceSize": 1920,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": 2.2646966771003303,
+        "pitch": 0.41846160194932125,
+        "fov": 1.4257291744884215
       },
       "linkHotspots": [
         {
-          "yaw": 0.14756572635053722,
-          "pitch": 0.41122762763926346,
+          "yaw": 0.12830153176680703,
+          "pitch": 0.30389298511176577,
           "rotation": 0,
           "target": "15-second-entrance-to-multipurpose-room--makrynari"
         },
@@ -600,8 +618,8 @@ var APP_DATA = {
           "target": "16--auditorium-foyer--mikrofournos-entrance"
         },
         {
-          "yaw": 2.1708916800873572,
-          "pitch": 0.262744793460989,
+          "yaw": 2.1708916800192997,
+          "pitch": 0.2627447966460217,
           "rotation": 0,
           "target": "13-auditorium--fournos-entrance"
         }
@@ -632,9 +650,9 @@ var APP_DATA = {
       ],
       "faceSize": 1920,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": -0.8198578170995923,
+        "pitch": 0.47938785090059355,
+        "fov": 1.4257291744884215
       },
       "linkHotspots": [
         {
@@ -682,16 +700,16 @@ var APP_DATA = {
       ],
       "faceSize": 1920,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": 1.5073367259833912,
+        "pitch": 0.1410888423223149,
+        "fov": 1.4257291744884215
       },
       "linkHotspots": [
         {
-          "yaw": 2.372309947829363,
-          "pitch": 0.2579911568158817,
+          "yaw": 2.371569295349703,
+          "pitch": 0.35550708081053095,
           "rotation": 0,
-          "target": "21-to-the-courtyard"
+          "target": "11-artos-entrance-corridor"
         },
         {
           "yaw": 1.376169500014278,
@@ -726,9 +744,9 @@ var APP_DATA = {
       ],
       "faceSize": 1920,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": 2.5440447957027246,
+        "pitch": 0.4780982733739165,
+        "fov": 1.4257291744884215
       },
       "linkHotspots": [
         {
@@ -770,9 +788,9 @@ var APP_DATA = {
       ],
       "faceSize": 1920,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": 0.5622832701758931,
+        "pitch": 0.5804356144358174,
+        "fov": 1.4257291744884215
       },
       "linkHotspots": [
         {
@@ -814,9 +832,9 @@ var APP_DATA = {
       ],
       "faceSize": 1920,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": -1.0780116386181504,
+        "pitch": 0.3904153508503505,
+        "fov": 1.4257291744884215
       },
       "linkHotspots": [
         {
@@ -858,9 +876,9 @@ var APP_DATA = {
       ],
       "faceSize": 1920,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": -0.9473651700368553,
+        "pitch": 0.32109031726680826,
+        "fov": 1.4257291744884215
       },
       "linkHotspots": [
         {
@@ -902,9 +920,9 @@ var APP_DATA = {
       ],
       "faceSize": 1920,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": -0.6802043481457982,
+        "pitch": 0.2634733109984282,
+        "fov": 1.4257291744884215
       },
       "linkHotspots": [
         {
@@ -946,9 +964,9 @@ var APP_DATA = {
       ],
       "faceSize": 1920,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": 2.7398046921933368,
+        "pitch": 0.1237231045573548,
+        "fov": 1.4257291744884215
       },
       "linkHotspots": [
         {
@@ -961,8 +979,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "21-to-the-courtyard",
-      "name": "To the courtyard",
+      "id": "21-tomb-entrance",
+      "name": "Tomb Entrance",
       "levels": [
         {
           "tileSize": 256,
@@ -984,9 +1002,9 @@ var APP_DATA = {
       ],
       "faceSize": 1920,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": -1.2708971091930383,
+        "pitch": 0.6750860536215697,
+        "fov": 1.4257291744884215
       },
       "linkHotspots": [
         {
@@ -1028,16 +1046,16 @@ var APP_DATA = {
       ],
       "faceSize": 1920,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": 1.8080810929193705,
+        "pitch": 0.5029125434766222,
+        "fov": 1.4257291744884215
       },
       "linkHotspots": [
         {
           "yaw": -1.1458178796879999,
           "pitch": -0.5975582180625345,
           "rotation": 0,
-          "target": "21-to-the-courtyard"
+          "target": "21-tomb-entrance"
         },
         {
           "yaw": 1.870523496187598,
@@ -1072,9 +1090,9 @@ var APP_DATA = {
       ],
       "faceSize": 1920,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": 2.638531140929663,
+        "pitch": 0.6359106889559545,
+        "fov": 1.4257291744884215
       },
       "linkHotspots": [
         {
@@ -1116,9 +1134,9 @@ var APP_DATA = {
       ],
       "faceSize": 1920,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": -0.8748067607077488,
+        "pitch": 0.4716166822730852,
+        "fov": 1.4257291744884215
       },
       "linkHotspots": [
         {
